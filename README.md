@@ -1,0 +1,1 @@
+This is odin recipes project. I'll use basic html technique for this project.
